@@ -1,15 +1,11 @@
 ### Hi there 👋
 
-<div align=center>
-  <span>
-    
+<div align=center display=inline-block>
     [![Naver Email Badge](https://img.shields.io/badge/jhy901@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:jhy901@naver.com)  
   
     [![Gmail Email Badge](https://img.shields.io/badge/hayoung474@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:hayoung474@gmail.com)  
   
     [![Instagram Badge](https://img.shields.io/badge/hayoungzzzzz-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hayoungzzzzz)](https://www.instagram.com/hayoungzzzzz) 
-    
-  </span>
   
 </div>
 
