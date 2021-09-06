@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-<div align=center>
-[![Naver Email Badge](https://img.shields.io/badge/jhy901@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:jhy901@naver.com)  [![Gmail Email Badge](https://img.shields.io/badge/hayoung474@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:hayoung474@gmail.com)  [![Instagram Badge](https://img.shields.io/badge/hayoungzzzzz-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hayoungzzzzz)](https://www.instagram.com/hayoungzzzzz) 
-</div>
+<span align=center>
+[![Naver Email Badge](https://img.shields.io/badge/jhy901@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:jhy901@naver.com)  
+  
+[![Gmail Email Badge](https://img.shields.io/badge/hayoung474@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:hayoung474@gmail.com)  
+  
+[![Instagram Badge](https://img.shields.io/badge/hayoungzzzzz-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hayoungzzzzz)](https://www.instagram.com/hayoungzzzzz) 
+  
+</span>
 
 
 **hayoung474/hayoung474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
