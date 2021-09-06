@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align=center display=inline-block>
+<div align=center>
     [![Naver Email Badge](https://img.shields.io/badge/jhy901@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:jhy901@naver.com)  
   
     [![Gmail Email Badge](https://img.shields.io/badge/hayoung474@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:hayoung474@gmail.com)  
