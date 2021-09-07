@@ -3,7 +3,9 @@
 🏃‍♀️🏃‍♀️🏃‍♀️ slow & steady, 변화에 빠르게 적응하기 (. ❛ ᴗ ❛.)
 
 프론트엔드 개발자를 꿈꾸며 공부하는 금오공과대학교 컴퓨터공학과 학생입니다!
-여러 기술스택을 공부중이며, 꾸준하 프로젝트 참여를 통한 실력 상승을 목표로 하고 있습니다
+여러 기술스택을 공부중이며, 꾸준한 프로젝트 참여를 통한 실력 상승을 목표로 하고 있습니다!
+아직 공부하고 싶은 기술스택이 정말 많으며, 빠르게 성장하여 유능한 웹 개발자가 되고 싶습니다 
+궁금한 사항은 아래의 연락처로 연락주세요!
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhayoung474%2Fhayoung474%2F&count_bg=%23FFEE8F&title_bg=%23FFD03B&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
