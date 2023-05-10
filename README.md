@@ -7,7 +7,7 @@
 만들어 내는 것 보단 문제를 풀어 나가는 것에 치중합니다. 새로운 문제를 정의하고 풀어나가며 기술적 가치를 만들어 내고 싶습니다. maker를 넘어 solver를 지향합니다.
 
 
-- 노션 이력서 자세히보기 [https://teamdef.notion.site/98fced4988a246d8bd77435bd5881bed](https://teamdef.notion.site/4ed0ce8b6e5d4923adaa69521d8e85f4)
+- 노션 이력서 자세히보기 [https://teamdef.notion.site/teamdef/4ed0ce8b6e5d4923adaa69521d8e85f4](https://teamdef.notion.site/4ed0ce8b6e5d4923adaa69521d8e85f4)
 
 - 개발 velog 자세히보기 https://velog.io/@hayoung474
 
