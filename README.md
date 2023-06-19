@@ -4,12 +4,12 @@
 
 하나의 목표가 생기면 우선순위를 두어 효율적으로 처리합니다. 서비스의 속도 개선에 관심있고 사용자의 기다림이 적을때, 일의 보람을 느낍니다.
 
-만들어 내는 것 보단 문제를 풀어 나가는 것에 치중합니다. 새로운 문제를 정의하고 풀어나가며 기술적 가치를 만들어 내고 싶습니다. maker를 넘어 solver를 지향합니다.
+만들어 내는 것 보단 문제를 풀어 나가는 것에 치중합니다. 새로운 문제를 정의하고 풀어나가며 기술적 가치를 만들어 내고 싶습니다.
 
 
-- 노션 이력서 자세히보기 [https://teamdef.notion.site/teamdef/4ed0ce8b6e5d4923adaa69521d8e85f4](https://teamdef.notion.site/4ed0ce8b6e5d4923adaa69521d8e85f4)
+- 노션 이력서 [https://teamdef.notion.site/teamdef/4ed0ce8b6e5d4923adaa69521d8e85f4](https://teamdef.notion.site/4ed0ce8b6e5d4923adaa69521d8e85f4)
 
-- 개발 velog 자세히보기 https://velog.io/@hayoung474
+- 개발 velog https://velog.io/@hayoung474
 
 ---------------------------------------------
 
