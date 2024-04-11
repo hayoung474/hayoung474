@@ -9,11 +9,6 @@
 
 - velog https://velog.io/@hayoung474
 
----------------------------------------------
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhayoung474%2Fhayoung474%2F&count_bg=%23FFEE8F&title_bg=%23FFD03B&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 [![Naver Email Badge](https://img.shields.io/badge/jhy901@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:jhy901@naver.com)  [![Gmail Email Badge](https://img.shields.io/badge/hayoung474@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:hayoung474@gmail.com)  
 </div>
-
-[![hayoung474's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayoung474)](https://github.com/anuraghazra/github-readme-stats)
